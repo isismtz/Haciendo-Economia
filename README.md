@@ -1,2 +1,2 @@
-# Haciendo-Econom-a
-Archivos taller 1
+# Haciendo-Economia
+Todos los archivos correspondientes al Taller 1 (hasta el momento)
